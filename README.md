@@ -1,5 +1,5 @@
 # PixelArtMaker
-Udacity project where I am making a pixel art grid.
+project where I am making a pixel art grid.
 
 How to run the project:
 
